@@ -3621,6 +3621,9 @@ button.btn.btn-block {
   border-radius: 50%;
   overflow: hidden;
 }
+.schedule .schedule-item .lecture-icon-wrapper i {
+	padding: 9px 0 0 2px;
+}
 .schedule .schedule-item .schedule-item-toggle {
   margin-bottom: 0;
   display: block;
