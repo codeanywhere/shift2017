@@ -7322,8 +7322,38 @@ button[type="submit"] .loading {
 
 
 
+/* My hah */
+.talk-p span {
+	display: block;
+	margin-bottom: 10px;
+}
 
-
+.get-here {
+	display: -webkit-box; 
+	display: -moz-box;
+	display: -ms-flexbox;
+	display: -webkit-flex; 
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: center;
+	margin-top: 50px;
+}
+.get-here__title {
+	font-family: "Roboto", "Helvetica Neue", Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	font-weight: 500;
+	margin: 0;
+}
+.get-here a {
+	display: block;
+}
+.get-here > div {
+	min-width: 300px;
+	max-width: 400px;
+}
+.get-here > div:first-child {
+	margin-bottom: 30px;
+}
 
 /* My Zoom */
 .my-zoom img {
