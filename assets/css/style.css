@@ -7355,6 +7355,10 @@ button[type="submit"] .loading {
 	margin-bottom: 30px;
 }
 
+#gallery .full-width-img {
+	max-width: 100%;
+}
+
 /* My Zoom */
 .my-zoom img {
   -webkit-transition: all 0.5s ease;
