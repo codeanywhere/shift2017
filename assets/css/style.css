@@ -2271,6 +2271,9 @@ img {
 .sponsor.inline.supporters img {
 	max-width: 160px;
 }
+.sponsor.inline.logistical img {
+	max-width: 150px;
+}
 .sponsor.inline.opartners img {
 	max-width: 140px;
 }
