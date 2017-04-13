@@ -2274,6 +2274,9 @@ img {
 .sponsor.inline.logistical img {
 	max-width: 150px;
 }
+.sponsor.inline.expo img {
+	max-width: 150px;
+}
 .sponsor.inline.opartners img {
 	max-width: 140px;
 }
