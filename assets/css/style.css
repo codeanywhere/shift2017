@@ -7383,7 +7383,15 @@ button[type="submit"] .loading {
 }
 
 
+/* My Area55 */
 
+#area55 {
+	display: none;
+}
+
+#area55.show {
+	display: block;
+}
 
 
 
