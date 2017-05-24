@@ -3,6 +3,6 @@
 
 $(function() {
 	$(".speakers-btn").click(function() {
-		$("#area55").toggleClass("show");
+		$("#speakers-55").toggleClass("show");
 	});
 });

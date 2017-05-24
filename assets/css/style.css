@@ -7392,11 +7392,11 @@ button[type="submit"] .loading {
 
 /* My Area55 */
 
-#area55 {
+#speakers-55 {
 	display: none;
 }
 
-#area55.show {
+#speakers-55.show {
 	display: block;
 }
 
