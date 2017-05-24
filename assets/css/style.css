@@ -2268,18 +2268,25 @@ img {
 .sponsor.inline.friends img {
 	max-width: 180px;
 }
+.sponsor.inline.expo img {
+	max-width: 160px;
+}
 .sponsor.inline.supporters img {
 	max-width: 160px;
 }
-.sponsor.inline.logistical img {
+.sponsor.inline.food img {
 	max-width: 150px;
 }
-.sponsor.inline.expo img {
+.sponsor.inline.logistical img {
 	max-width: 150px;
 }
 .sponsor.inline.opartners img {
 	max-width: 140px;
 }
+.sponsor.inline.media img {
+	max-width: 140px;
+}
+
 .retina-show {
   display: none;
 }
