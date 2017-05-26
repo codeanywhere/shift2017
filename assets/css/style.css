@@ -7401,7 +7401,13 @@ button[type="submit"] .loading {
 }
 
 
-
+/* Agenda */
+.agenda-type {
+	color: #8d93a0;
+	font-weight: 500;
+	margin-left: 10px;
+	font-size: 14px;
+}
 
 
 
