@@ -7412,4 +7412,30 @@ button[type="submit"] .loading {
 
 
 
+/* Code of Conduct */
+.codeofconduct {
+	box-sizing: border-box;
+	padding: 10%;
+}
+
+.codeofconduct h1 {
+	font-size: 3em;
+	color: #7e3f98;
+}
+.codeofconduct h2 {
+	font-size: 2em;
+	color: #7e3f98;
+}
+.codeofconduct p {
+	margin-bottom: 40px;
+}
+
+
+
+
+
+
+
+
+
 
